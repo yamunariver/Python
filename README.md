@@ -5,3 +5,8 @@ We choose `mnemonic variable names to help us remember why we created the variab
 `When we assign a certain data type to a variable, it is called variable declaration`
 
 `Assigning means storing data in the variable. The equal sign in Python is not equality as in Mathematics.`
+
+`An argument is a value which we can be passed or put inside the function parenthesis`
+
+print('hello')
+print(len('hello'))
