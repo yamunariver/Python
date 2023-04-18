@@ -10,3 +10,6 @@ We choose `mnemonic variable names to help us rAn argument is a value which we c
 
 print('hello')
 print(len('hello'))
+
+
+`https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/703/arraystrings/`
