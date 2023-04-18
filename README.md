@@ -27,21 +27,27 @@ Casting: `Converting one data type to another data type`. We use int(), float(),
 ``
 Addition(+): a + b
 ``
+
 ``
 Subtraction(-): a - b
 ``
+
 ``
 Multiplication(*): a * b
 ``
+
 ``
 Division(/): a / b
 ``
+
 ``
 Modulus(%): a % b
 ``
+
 ``
 Floor division(//): a // b
 ``
+
 ``
 Exponentiation(**): a ** b
 ``
