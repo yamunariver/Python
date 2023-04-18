@@ -16,3 +16,6 @@ print(len('hello'))
 
 
 To identify the data type we use the type built-in function. `I would like to ask you to focus on understanding different data types very well`
+
+
+Casting: `Converting one data type to another data type`. We use int(), float(), str(), list, set When we do arithmetic operations string numbers should be first converted to int or float otherwise it will return an error. If we concatenate a number with a string, the number should be first converted to a string. We will talk about concatenation in String section.
