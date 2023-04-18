@@ -25,11 +25,23 @@ Casting: `Converting one data type to another data type`. We use int(), float(),
 
 ## Arithmetic Operators:
 ``
-Addition(+): a + b``
-Subtraction(-): a - b``
-Multiplication(*): a * b``
-Division(/): a / b``
-Modulus(%): a % b``
-Floor division(//): a // b``
+Addition(+): a + b
+``
+``
+Subtraction(-): a - b
+``
+``
+Multiplication(*): a * b
+``
+``
+Division(/): a / b
+``
+``
+Modulus(%): a % b
+``
+``
+Floor division(//): a // b
+``
+``
 Exponentiation(**): a ** b
 ``
