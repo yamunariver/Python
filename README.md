@@ -13,3 +13,6 @@ print(len('hello'))
 
 
 `https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/703/arraystrings/`
+
+
+To identify the data type we use the type built-in function. `I would like to ask you to focus on understanding different data types very well`
